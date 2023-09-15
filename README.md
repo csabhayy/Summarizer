@@ -1,4 +1,4 @@
-# Article Summarizer App
+# Summarizer App
 
 ![App Logo](link_to_your_app_logo.png)
 
