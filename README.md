@@ -1,7 +1,5 @@
 # Summarizer App
 
-![App Logo](link_to_your_app_logo.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
